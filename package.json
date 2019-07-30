@@ -23,6 +23,6 @@
   "dependencies": {
     "mysql": "^2.12.0",
     "pg": "^6.1.2",
-    "egg-sequelize-auto": "git+ssh://github.com/wwinstonWang/egg-sequelize-auto",
+    "egg-sequelize-auto": "git+ssh://github.com/wwinstonWang/egg-sequelize-auto"
   }
 }
